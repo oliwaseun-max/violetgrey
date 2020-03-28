@@ -1,0 +1,62 @@
+
+
+
+.inside {
+    padding: 50px 60px 0px;
+}
+ img {
+    width: 100%;
+    height: auto;
+    margin-left: 15px;
+ }
+ .modal-content {
+    position: relative;
+    display: flex;
+    width: 175%;
+ }
+ .inside{
+    margin-right: 10px;
+    padding: 50px;
+    text-align: center;
+ }
+
+ 
+ .col-md-6{
+    padding-right: 15px;
+    padding-left: 0px;
+ }
+
+ ::placeholder{
+    font-size: x-small;
+    text-align: center;
+ }
+
+ .btn-secondary {
+     background-color: black;
+     border-radius: none;
+     font-size: x-small;
+
+ }
+
+ .form-control {
+    margin-bottom: 20px;
+    border: 1px solid black;
+ }
+#none {
+    border-radius: inherit;
+}
+
+.btn{
+    padding: 0.375rem 3.75rem;
+    border-radius: inherit;
+}
+p{
+    font-weight: bold;
+    font-family: linotype-didot-roman;
+    margin: 15px;
+}
+
+span{
+    font-size: smaller;
+    
+}
